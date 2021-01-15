@@ -61,7 +61,8 @@ public class testTiempo {
     /*
      * Resultado.
      */
-    System.out.println("La suma de los dos intervalos de los dos intervalos de tiempo es " +  t1.suma()(t2).conversion());
+    System.out.println("La suma de los dos intervalos de los dos intervalos de tiempo es " +  t1.suma()(t2).conversion()); 
+    //Esto último sé que está mal, es solo para mostrarte qué es lo que quiero hacer
 
   }
 
